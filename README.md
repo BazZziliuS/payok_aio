@@ -1,5 +1,6 @@
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/payok-aio)
 ![PyPI - Implementation](https://img.shields.io/pypi/implementation/payok_aio)
+![PyPI - Version](https://img.shields.io/pypi/v/payok_aio)
 
 # Payok API Client
 
@@ -60,6 +61,7 @@ async def main():
         print(f"Ссылка для оплаты: {payment_url}")
     else:
         print("Не удалось создать платеж.")
+
 if __name__ == '__main__':
     asyncio.run(main())
 ```
