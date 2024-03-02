@@ -1,6 +1,7 @@
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/payok-aio)
 ![PyPI - Implementation](https://img.shields.io/pypi/implementation/payok_aio)
 ![PyPI - Version](https://img.shields.io/pypi/v/payok_aio)
+[![wakatime](https://wakatime.com/badge/user/d1734201-6222-408c-98a4-642d2b764ecb/project/018dfcb0-b754-4ee2-98d0-437403cb0bf1.svg)](https://wakatime.com/badge/user/d1734201-6222-408c-98a4-642d2b764ecb/project/018dfcb0-b754-4ee2-98d0-437403cb0bf1)
 
 # Payok API Client
 
