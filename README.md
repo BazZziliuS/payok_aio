@@ -1,3 +1,5 @@
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/payok-aio)
+![PyPI - Implementation](https://img.shields.io/pypi/implementation/payok_aio)
 
 # Payok API Client
 
