@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "payok-aio"
-version = "0.1.0"
+version = "0.1.1"
 description = ""
 authors = ["BazZziliuS <bazzzil123@gmail.com>"]
 readme = "README.md"
