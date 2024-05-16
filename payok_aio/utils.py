@@ -4,7 +4,7 @@ from typing import Optional
 import aiohttp
 import certifi
 
-from exceptions import CodeErrorFactory
+from .exceptions import CodeErrorFactory
 
 # Асинхронная сессия для запросов
 class AsyncRequestSession:
