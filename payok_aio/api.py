@@ -1,9 +1,9 @@
 from hashlib import md5
 from typing import List, Optional, Union
 from urllib.parse import urlencode
-from const import Currencies, HTTPMethods
-from utils import AsyncRequestSession
-from models import Balance, Transaction
+from .const import Currencies, HTTPMethods
+from .utils import AsyncRequestSession
+from .models import Balance, Transaction
 
 
 class Payok:
