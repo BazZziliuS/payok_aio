@@ -2,13 +2,14 @@ from pydantic import BaseModel
 
 
 class Balance(BaseModel):
-    '''Payok API balance model'''
+    """Payok API balance model"""
 
     balance: float
     ref_balance: float
 
+
 class Transaction(BaseModel):
-    '''Payok API transaction model'''
+    """Payok API transaction model"""
 
     transaction: int
     email: str

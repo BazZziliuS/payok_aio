@@ -1,7 +1,7 @@
 import gc
 from typing import Optional, Type, Union
 
-from const import ERROR_MESSAGES
+from .const import ERROR_MESSAGES
 
 class CodeErrorFactory(Exception):
     '''Payok API Exception'''
